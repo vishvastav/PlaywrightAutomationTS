@@ -42,6 +42,7 @@ npx playwright show-report
 
 ```
 tests/
+  00_Task/                          Practice/assignment tasks
   01_Basics/                       Basic Playwright test syntax and annotations
   02_first_tests/                  Browser/context/page (BCP) fundamentals
   03_Locators_Commands/            Locator strategies and commands
