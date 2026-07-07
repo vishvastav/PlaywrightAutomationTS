@@ -5,9 +5,9 @@
   "main": "index.js",
   "scripts": {},
   "keywords": [],
-  "author": "",
+  "author": "Vishal Srivastava",
   "license": "ISC",
-  "type": "commonjs",
+
   "devDependencies": {
     "@playwright/test": "^1.61.1",
     "@types/node": "^26.1.0"
